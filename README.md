@@ -1,0 +1,1 @@
+# Script-texto-a-una-columna
