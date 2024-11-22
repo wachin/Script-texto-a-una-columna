@@ -1,15 +1,13 @@
-# Script-texto-a-una-columna
-
-Script que convierte texto de una lista lineal de palabras a una columna, texto el cual el cual debe estar en un archivo de texto como entrada y se creará un archivo de salida con palabras separadas en columnas:
+Aquí tienes un ejemplo de **manual de usuario para alumnos de colegio** enfocado en el uso de un archivo o script que convierte texto en una columna, suponiendo que utilicen un archivo de texto como entrada y deseen un archivo de salida con palabras separadas en columnas:
 
 ---
 
-# **Manual de Usuario**
+# **Manual de Usuario para Alumnos**
 
 ### **Título**: Conversión de Texto a una Columna
 
 ## **Introducción**
-Este programa convierte un archivo de texto donde todas las palabras están en una sola línea (separadas por espacios) por ejemplo una lista de parquetes de Debian o Ubuntu para instalar desde la terminal, a un formato de columna, con cada palabra en una línea nueva.
+Este programa convierte un archivo de texto donde todas las palabras están en una sola línea (separadas por espacios) a un formato de columna, con cada palabra en una línea nueva. Está diseñado para facilitar la organización y el análisis de texto en tareas escolares.
 
 ---
 
@@ -29,14 +27,12 @@ Este programa convierte un archivo de texto donde todas las palabras están en u
    ```text
    uno dos tres cuatro cinco
    ```
- O las que estén en una lista de pasteles a instalar para la terminal ejemplo sudo apt inslall gedit gedit-plugins meld   
-   
 3. Guarda el archivo con un nombre, como `texto_entrada.txt`.
 
 ---
 
 ### **2. Descargar el Script**
-1. Copia el siguiente script y guárdalo como un archivo llamado `convertir_a_columna.py`.
+1. Copia este script y guárdalo como un archivo llamado `convertir_a_columna.py`.
 
    ```python
    # Leer el archivo de texto
@@ -66,17 +62,11 @@ Este programa convierte un archivo de texto donde todas las palabras están en u
      ```bash
      cd C:\Usuarios\Alumno\MisArchivos
      ```
-     
-     En Linux también podría abrir una terminal con clic derecho desde el administrador de archivos.
 3. Ejecuta el script con el comando:
    ```bash
    python convertir_a_columna.py
    ```
-En Linux sería
 
-   ```bash
-   python3 convertir_a_columna.py
-   ```
 ---
 
 ### **4. Resultado**
@@ -101,4 +91,9 @@ En Linux sería
 
 ---
 
-Dios les bendiga.
+## **Conclusión**
+Este programa es una herramienta sencilla y efectiva para organizar texto. Ahora puedes utilizar la salida para tareas escolares, bases de datos simples o análisis de palabras.
+
+--- 
+
+Si necesitas ayuda adicional, no dudes en consultar a tu profesor o compañeros.
